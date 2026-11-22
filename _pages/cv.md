@@ -11,29 +11,29 @@ permalink: /cv/
 ---
 
 ## Objective
-One or two sentences: what you are studying, and what you are looking for next.
+Studying Mechanical Engineering. Looking for innovation and design opportunities.
 
 ---
 
 ## Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  Graduation: May, 2029
 
 ---
 
 ## Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Inventor, ANSYS
+- **Programming:** Python
+- **Tools:** 3D Printing, Laser Cutting, Machining
 
 ---
 
 ## Projects
 - **Project title**:  
   *One line about what it was*  
-  - What you did  
-  - What came of it  
+  - What you did
+  - What came of it
 
 ---
 
@@ -51,7 +51,7 @@ One or two sentences: what you are studying, and what you are looking for next.
 ---
 
 ## Extracurricular Activities
-- Member of a club or project team  
+- Member of a club or project team
 
 ---
 

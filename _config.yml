@@ -11,7 +11,7 @@ title                    : Sydney Mallow
 name                     : Sydney Mallow
 # One line about you. It appears under your name on the home page, and it is
 # what search engines and messaging apps show when someone shares your link.
-description              : "Mechanical engineering student at Cornell. Like logic puzzles, animals, and playing sports."
+description              : "Mechanical engineering student at Cornell. Likes logic puzzles, animals, and playing sports."
 
 # Theme and Style
 theme: jekyll-theme-minimal
