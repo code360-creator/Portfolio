@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
+title: Battery Module Design
+description: Cell Constraint System for Cornell Racing Project Team
 technologies:
   - SolidWorks
   - Machining
-featured: false   # change to true to always show this project on your home page
+featured: true   # change to true to always show this project on your home page
 image: /assets/images/spaceship-design.jpg
 imagealt: Illustration of a boxy, faceted spacecraft with glowing blue thrusters and portholes, drifting past two moons
 ---

@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: Bridge Design
+description: Statics Class Project
 technologies:
   - MATLAB
   - Python
-featured: false   # change to true to always show this project on your home page
+featured: true   # change to true to always show this project on your home page
 image: /assets/images/function-graph.png
 imagealt: Line plot titled "Analysis of Standard Functions" showing sin(x), cos(x) and 0.1*tan(x) for x from 0 to 10
 ---

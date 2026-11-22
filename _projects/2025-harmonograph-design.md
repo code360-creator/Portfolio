@@ -1,10 +1,10 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
+title: Harmonograph Build
+description: Class Project for Multivariable Calculus
 technologies:
   - Autodesk Fusion
-featured: false   # change to true to always show this project on your home page
+featured: true   # change to true to always show this project on your home page
 image: /assets/images/radio-machine-cad.jpg
 imagealt: Line-art CAD drawing of a vintage tabletop radio, with four vacuum tubes and a tuning coil mounted above the dial and speaker grilles
 ---
